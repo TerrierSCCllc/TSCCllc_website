@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Terrier Supply Chain Consulting LLC"
+  description: "Terrier Supply Chain Consulting LLC is a advisory firm focused on supply chain, procurement, logistics, inventory management, vendor coordination, and international trade support for small and medium-sized businesses."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: contact.qmd
+        text: Contact
+    #right:
+      #- href: services.qmd
+        #text: Services
+      #- href: blog.qmd
+        #text: Blog 
+
+page-footer:
+    background: dark
+    left: "© 2026 Terrier Supply Chain Consulting LLC. All rights reserved."
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: false
+    page-layout: full
+
+
+

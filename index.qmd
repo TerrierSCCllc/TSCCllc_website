@@ -1,0 +1,41 @@
+---
+title: "Terrier Supply Chain Consulting LLC"
+page-layout: full
+css: styles.css
+---
+::: {.hero}
+
+# Welcome to Terrier Supply Chain Consulting LLC
+
+**Your trusted partner in supply chain management and logistics solutions.**
+
+::: 
+## What We Do
+
+:::: {.grid}
+::: {.g-col-4}
+### Vendor Management and Supplier Relations
+:::
+
+::: {.g-col-4}
+### Vendor Communication Support
+:::
+
+::: {.g-col-4}
+### Process Improvement and Operational Optimization
+:::
+
+::: {.g-col-4}
+### Import and Export Advisory Services
+:::
+
+::: {.g-col-4}
+### Inventory Management and Inventory Control
+:::
+
+::: {.g-col-4}
+### Procurement Assistance and Strategic Sourcing Analysis
+:::
+
+::::
+

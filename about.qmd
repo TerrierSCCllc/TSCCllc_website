@@ -1,0 +1,20 @@
+---
+title: "About Us"
+page-layout: article
+---
+
+## Our Story
+
+Brief history and mission of the LLC.
+
+## Meet the CEO
+
+![Matyas Andre Guede, Founder & CEO](images/ceo-photo.jpg){fig-align="center" width="300px"}
+
+Matyas is the visionary behind Terrier Supply Chain Consulting
+LLC. With several years of industry experience, he is dedicated to delivering top-tier solutions and ensuring every client achieves their goals.
+
+
+## Our Mission
+
+> "A compelling mission statement that defines what we do and why."
