@@ -1,31 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Us",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Terrier Supply Chain Consulting LLC",
     "section": "",
-    "text": "Brief history and mission of the LLC."
+    "text": "Your trusted partner in supply chain management and logistics solutions."
   },
   {
-    "objectID": "about.html#our-story",
-    "href": "about.html#our-story",
-    "title": "About Us",
-    "section": "",
-    "text": "Brief history and mission of the LLC."
-  },
-  {
-    "objectID": "about.html#meet-the-ceo",
-    "href": "about.html#meet-the-ceo",
-    "title": "About Us",
-    "section": "Meet the CEO",
-    "text": "Meet the CEO\n\n\n\nMatyas Andre Guede, Founder & CEO\n\n\nMatyas is the visionary behind Terrier Supply Chain Consulting LLC. With several years of industry experience, he is dedicated to delivering top-tier solutions and ensuring every client achieves their goals."
-  },
-  {
-    "objectID": "about.html#our-mission",
-    "href": "about.html#our-mission",
-    "title": "About Us",
-    "section": "Our Mission",
-    "text": "Our Mission\n\n“A compelling mission statement that defines what we do and why.”"
+    "objectID": "index.html#what-we-do",
+    "href": "index.html#what-we-do",
+    "title": "Terrier Supply Chain Consulting LLC",
+    "section": "What We Do",
+    "text": "What We Do\n\n\nVendor Management and Supplier Relations\n\n\nVendor Communication Support\n\n\nProcess Improvement and Operational Optimization\n\n\nImport and Export Advisory Services\n\n\nInventory Management and Inventory Control\n\n\nProcurement Assistance and Strategic Sourcing Analysis"
   },
   {
     "objectID": "contact.html",
@@ -56,17 +42,31 @@
     "text": "Request a Quote\nReady to get started? Fill out the form below and we will get back to you within 48 hours.\n\n\n&lt;label for=\"name\" class=\"form-label\"&gt;Name&lt;/label&gt;\n&lt;input type=\"text\" class=\"form-control\" id=\"name\" name=\"name\" placeholder=\"Your full name\" required&gt;\n\n\n&lt;label for=\"email\" class=\"form-label\"&gt;Contact Email&lt;/label&gt;\n&lt;input type=\"email\" class=\"form-control\" id=\"email\" name=\"email\" placeholder=\"you@example.com\" required&gt;\n\n\n&lt;label for=\"message\" class=\"form-label\"&gt;Short Message&lt;/label&gt;\n&lt;textarea class=\"form-control\" id=\"message\" name=\"message\" rows=\"4\" placeholder=\"Tell us briefly about your project or needs...\" required&gt;&lt;/textarea&gt;\n\n\nSubmit Request"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Terrier Supply Chain Consulting LLC",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Us",
     "section": "",
-    "text": "Your trusted partner in supply chain management and logistics solutions."
+    "text": "Brief history and mission of the LLC."
   },
   {
-    "objectID": "index.html#what-we-do",
-    "href": "index.html#what-we-do",
-    "title": "Terrier Supply Chain Consulting LLC",
-    "section": "What We Do",
-    "text": "What We Do\n\n\nVendor Management and Supplier Relations\n\n\nVendor Communication Support\n\n\nProcess Improvement and Operational Optimization\n\n\nImport and Export Advisory Services\n\n\nInventory Management and Inventory Control\n\n\nProcurement Assistance and Strategic Sourcing Analysis"
+    "objectID": "about.html#our-story",
+    "href": "about.html#our-story",
+    "title": "About Us",
+    "section": "",
+    "text": "Brief history and mission of the LLC."
+  },
+  {
+    "objectID": "about.html#meet-the-ceo",
+    "href": "about.html#meet-the-ceo",
+    "title": "About Us",
+    "section": "Meet the CEO",
+    "text": "Meet the CEO\n\n\n\nMatyas Andre Guede, Founder & CEO\n\n\nMatyas is the visionary behind Terrier Supply Chain Consulting LLC. With several years of industry experience, he is dedicated to delivering top-tier solutions and ensuring every client achieves their goals."
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "About Us",
+    "section": "Our Mission",
+    "text": "Our Mission\n\n“A compelling mission statement that defines what we do and why.”"
   }
 ]
