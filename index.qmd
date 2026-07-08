@@ -1,5 +1,5 @@
 ---
-title: "Terrier Supply Chain Consulting LLC"
+title: "Home"
 page-layout: full
 css: styles.css
 ---
