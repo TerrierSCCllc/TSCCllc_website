@@ -10,7 +10,7 @@ css: styles.css
 **Your trusted partner in supply chain management and logistics solutions.**
 
 ::: 
-## What We Do
+## Our Services
 
 :::: {.grid}
 ::: {.g-col-4}
