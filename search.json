@@ -39,7 +39,7 @@
     "href": "contact.html#request-a-quote",
     "title": "Contact Us",
     "section": "Request a Quote",
-    "text": "Request a Quote\nReady to get started? Fill out the form below and we will get back to you within 48 hours.\n\n\n&lt;label for=\"name\" class=\"form-label\"&gt;Name&lt;/label&gt;\n&lt;input type=\"text\" class=\"form-control\" id=\"name\" name=\"name\" placeholder=\"Your full name\" required&gt;\n\n\n&lt;label for=\"email\" class=\"form-label\"&gt;Contact Email&lt;/label&gt;\n&lt;input type=\"email\" class=\"form-control\" id=\"email\" name=\"email\" placeholder=\"you@example.com\" required&gt;\n\n\n&lt;label for=\"message\" class=\"form-label\"&gt;Short Message&lt;/label&gt;\n&lt;textarea class=\"form-control\" id=\"message\" name=\"message\" rows=\"4\" placeholder=\"Tell us briefly about your project or needs...\" required&gt;&lt;/textarea&gt;\n\n\nSubmit Request"
+    "text": "Request a Quote\nReady to get started? Fill out the form below and we will get back to you within 48 hours.\n\n Your Name:    Your Email:    Your Message:\n\n Submit Request"
   },
   {
     "objectID": "about.html",
