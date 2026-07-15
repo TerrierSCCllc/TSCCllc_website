@@ -3,6 +3,7 @@ project:
   output-dir: _site
 
 website:
+  site-url: http://terriersupplychainllc.com
   title: "Terrier Supply Chain Consulting LLC"
   description: "Terrier Supply Chain Consulting LLC is a advisory firm focused on supply chain, procurement, logistics, inventory management, vendor coordination, and international trade support for small and medium-sized businesses."
   navbar:
