@@ -103,3 +103,86 @@ footer p {
 .simple-form button:hover {
   background-color: #143d66;
 }
+
+/* ===== CEO Section Styling ===== */
+.ceo-section .column {
+  padding: 1rem;
+}
+
+.ceo-section img {
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  display: block;
+  margin: 0 auto;
+}
+
+/* Add some vertical spacing between columns on mobile */
+@media (max-width: 768px) {
+  .ceo-section .column {
+    margin-bottom: 2rem;
+  }
+}
+
+/* ===== Services Grid Styling ===== */
+.service-card {
+  background: #ffffff;
+  border: 1px solid #e9ecef;
+  border-radius: 10px;
+  padding: 2rem 1.5rem;
+  text-align: center;
+  transition: all 0.3s ease;
+  min-height: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: default;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  margin-bottom: 1.5rem;
+}
+
+/* Hover effect with your hero gradient */
+.service-card:hover {
+  background: linear-gradient(135deg, #4a4a9c, #16213e);
+  transform: translateY(-5px);
+  box-shadow: 0 12px 24px rgba(74, 74, 156, 0.3);
+  border-color: transparent;
+}
+
+/* Style the service titles */
+.service-card h3 {
+  margin-bottom: 0.5rem;
+  color: #0A2540;
+  font-size: 1.15rem;
+  font-weight: 700;
+  transition: color 0.3s ease;
+}
+
+/* Change title color to white on hover */
+.service-card:hover h3 {
+  color: #ffffff;
+}
+
+/* Hide the Quarto header link icon */
+.service-card h3 a {
+  display: none !important;
+}
+
+/* Hide the description by default */
+.service-desc {
+  opacity: 0;
+  transform: translateY(10px);
+  transition: all 0.3s ease;
+  font-size: 0.95rem;
+  color: #6c757d;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0 10px;
+}
+
+/* Show the description on hover with white text */
+.service-card:hover .service-desc {
+  opacity: 1;
+  transform: translateY(0);
+  color: #e0e0e0; /* Light gray/white for better readability on dark gradient */
+}
