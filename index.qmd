@@ -10,32 +10,38 @@ css: styles.css
 **Your trusted partner in supply chain management and logistics solutions.**
 
 ::: 
+
 ## Our Services
 
-:::: {.grid}
-::: {.g-col-4}
+::: {.grid}
+::: {.g-col-4 .service-card}
 ### Vendor Management and Supplier Relations
+<p class="service-desc">Build and maintain strong, cost-effective relationships with your global suppliers to ensure quality and reliability.</p>
 :::
 
-::: {.g-col-4}
+::: {.g-col-4 .service-card}
 ### Vendor Communication Support
+<p class="service-desc">Streamline communication channels with your vendors to resolve issues quickly and negotiate better terms.</p>
 :::
 
-::: {.g-col-4}
+::: {.g-col-4 .service-card}
 ### Process Improvement and Operational Optimization
+<p class="service-desc">Identify bottlenecks and implement lean strategies to increase efficiency and reduce operational costs.</p>
 :::
 
-::: {.g-col-4}
+::: {.g-col-4 .service-card}
 ### Import and Export Advisory Services
+<p class="service-desc">Navigate complex international trade regulations, tariffs, and logistics to ensure seamless cross-border operations.</p>
 :::
 
-::: {.g-col-4}
+::: {.g-col-4 .service-card}
 ### Inventory Management and Inventory Control
+<p class="service-desc">Optimize stock levels to prevent overstocking or stockouts, ensuring your capital is tied up efficiently.</p>
 :::
 
-::: {.g-col-4}
-### Procurement Assistance and Strategic Sourcing Analysis
+::: {.g-col-4 .service-card}
+### Procurement Assistance and Strategic Sourcing
+<p class="service-desc">Develop strategic sourcing plans to find the right suppliers at the right price, mitigating supply chain risks.</p>
 :::
-
-::::
+:::
 

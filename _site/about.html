@@ -137,25 +137,32 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="our-story" class="level2">
-<h2 class="anchored" data-anchor-id="our-story">Our Story</h2>
-<p>Brief history and mission of the LLC.</p>
-</section>
 <section id="meet-the-ceo" class="level2">
 <h2 class="anchored" data-anchor-id="meet-the-ceo">Meet the CEO</h2>
+<div class="columns ceo-section">
+<div class="column" style="width:40%;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/ceo-photo.jpg" class="img-fluid figure-img" width="300"></p>
+<p><img src="images/ceo-photo.jpeg" class="img-fluid figure-img" style="width:100.0%"></p>
 <figcaption>Matyas Andre Guede, Founder &amp; CEO</figcaption>
 </figure>
 </div>
+</div><div class="column" style="width:60%;">
 <p>Matyas is the visionary behind Terrier Supply Chain Consulting LLC. With several years of industry experience, he is dedicated to delivering top-tier solutions and ensuring every client achieves their goals.</p>
+<p>Feel free to reach out to discuss how we can help your business thrive.</p>
+</div>
+</div>
+</section>
+<section id="our-story" class="level2">
+<h2 class="anchored" data-anchor-id="our-story">Our Story</h2>
+<p>Terrier Supply Chain Consulting LLC was founded with a simple goal: to help businesses improve the way they manage their operations, supply chains, and day-to-day processes through practical, results-driven consulting.</p>
+<p>After earning my Master’s degree in Supply Chain Management from Boston University, I gained hands-on experience working on complex consulting engagements through both my academic capstone project and professional consulting work with companies across a variety of industries. These experiences revealed a common challenge—many small and growing businesses lacked access to tailored supply chain and operational expertise that could help them streamline processes, strengthen procurement, improve inventory management, and operate more efficiently.</p>
+<p>Having grown up between two cultures and built my career in a third, I have also come to appreciate the importance of cultural awareness in business. Every organization operates within its own culture, and understanding the people, communication styles, and business practices behind an operation is just as important as understanding its processes. I believe that meaningful operational improvements come from solutions that are not only efficient but also aligned with the way a business and its people work.</p>
+<p>Recognizing this need, and driven by a passion for solving operational challenges, I established Terrier Supply Chain Consulting LLC to provide businesses with personalized consulting solutions grounded in real-world experience, analytical thinking, cultural understanding, and a commitment to measurable improvement. I approach every engagement collaboratively, taking the time to understand each client’s unique operations and deliver practical recommendations that create lasting value and support long-term growth.</p>
 </section>
 <section id="our-mission" class="level2">
 <h2 class="anchored" data-anchor-id="our-mission">Our Mission</h2>
-<blockquote class="blockquote">
-<p>“A compelling mission statement that defines what we do and why.”</p>
-</blockquote>
+<p>Our mission is to help businesses build stronger, more efficient operations through practical supply chain expertise, data-driven solutions, and collaborative problem-solving. We strive to deliver tailored improvements that optimize processes while recognizing that every successful solution begins with understanding each client’s unique business, people, and culture.</p>
 
 
 </section>
@@ -395,7 +402,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/terriersupplychainllc\.com\/");
+      var filterRegex = new RegExp("https:\/\/terriersupplychainllc\.com");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
